@@ -1,5 +1,10 @@
 {
   "devDependencies": {
     "tape": "^4.0.0"
+  },
+  "dependencies": {
+    "box-intersect": "^1.0.1",
+    "robust-segment-intersect": "^1.0.1",
+    "segment-aabb": "^1.0.0"
   }
 }
